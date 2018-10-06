@@ -1,16 +1,16 @@
 # SMV_SparseChannelSimulator
 %  Try to conduct sparse analysis and modelling for typical measured/simulated indoor wireless channels. 
 % SMV-SCM，
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CopyRight@ %%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CopyRight@ %%%%%%%%%%%
 % PengfeiCui
 % 2018-09-29 UTS Building 11， 
 % FEIT，School of communication & computation
 % PerfeyCui@126.com
 % Corresponding paper ：“Sparse Channel Modeling for Measured and Simulated Wireless Propagation
 % Scenarios”，Peng-Fei Cui, J. Andrew Zhang, Wen-Jun Lu, Y. Jay Guo, Hong-Bo Zhu, submitted.
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%% Code Structures %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%% Code Structures %%%%%%%%%%%%%%%%%%%%%
 1 SCMSimulator.m is the main program.
 2 SCMSimulatro.fig is the Matlab-based Graphic User Interface (GUI) program. A user-friendly operation interface.
 3 RMS_DS.m is small function for calculating RMS delay spread, 
