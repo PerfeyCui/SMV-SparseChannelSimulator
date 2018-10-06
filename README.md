@@ -1,13 +1,23 @@
 # SMV_SparseChannelSimulator
+
 %  Try to conduct sparse analysis and modelling for typical measured/simulated indoor wireless channels. 
+
 % SMV-SCM，
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% CopyRight@ %%%%%%%%%%%
+
 % PengfeiCui
+
 % 2018-09-29 UTS Building 11， 
+
 % FEIT，School of communication & computation
+
 % PerfeyCui@126.com
+
 % Corresponding paper ：“Sparse Channel Modeling for Measured and Simulated Wireless Propagation
+
 % Scenarios”，Peng-Fei Cui, J. Andrew Zhang, Wen-Jun Lu, Y. Jay Guo, Hong-Bo Zhu, submitted.
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%% Code Structures %%%%%%%%%%%%%%%%%%%%%
